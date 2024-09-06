@@ -19,14 +19,26 @@ header{
     width:10%;
     height:35px;
     background-color: orange;
+
     
 }
 .link{
     width:30%;
     height:35px;
     background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-
+.logo{
+    display: flex;
+    align-items: center;
+}
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
     
 
 
