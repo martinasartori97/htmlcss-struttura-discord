@@ -7,9 +7,12 @@
 
     height: 50px;
     background-color:rgba(0, 140, 255, 0.308);
-    display: flex;
+    display: inline-flexbox;
+    font-size: 10px;
 }
 .container{
-    display:flexbox;
+    
+}
+    
 }
 
