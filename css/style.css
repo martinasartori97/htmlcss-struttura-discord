@@ -53,6 +53,17 @@ header{
     width: 50%;
     
 }
+.rettangolo{
+    display: flex;
+    width: 350px;;
+    background-color:white;
+    align-items: center;
+}
+.interno{
+    display: flex;
+    width: 50px;
+    background-color: pink;
+}
     
 
 
