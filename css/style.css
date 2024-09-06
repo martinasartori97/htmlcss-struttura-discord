@@ -39,6 +39,20 @@ header{
     align-items: center;
     justify-content: flex-end;
 }
+.quadrato{
+    display: flex;
+    height: 350px;
+    background-color: blue;
+    align-items: center;
+    justify-content: center;
+}
+.rosa{
+    display: flex;
+    height: 80%;
+    background-color: pink;
+    width: 50%;
+    
+}
     
 
 
