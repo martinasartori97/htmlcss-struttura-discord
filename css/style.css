@@ -8,6 +8,8 @@
     border: 1px solid black;
 
 }
+/* region header*/
+
 header{
     height: 50px;
     display: flex;
@@ -58,13 +60,14 @@ header{
     height: 350px;
     background-color:white;
     align-items: center;
+    justify-content: center;
 }
 .interno{
     display: flex;
     height: 80%;
     background-color: pink;
-    align-items: center;
+    width: 50%;
 }
-    
+
 
 
