@@ -55,14 +55,15 @@ header{
 }
 .rettangolo{
     display: flex;
-    width: 350px;;
+    height: 350px;
     background-color:white;
     align-items: center;
 }
 .interno{
     display: flex;
-    width: 50px;
+    height: 80%;
     background-color: pink;
+    align-items: center;
 }
     
 
